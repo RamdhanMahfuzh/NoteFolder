@@ -10,10 +10,13 @@ Organize, manage, and find your notes easily in one place.
 <br/>
 
 <!-- App Screenshots -->
-<img src="screenshots/home.png" width="220" alt="Home Screen"/>
-<img src="screenshots/details.png" width="220" alt="Note Details Screen"/>
-<img src="screenshots/search.png" width="220" alt="Search Screen"/>
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/46e7dfc0-5ecf-4c7a-8be5-be65293f612d" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7e387dc0-4a11-44b7-bacf-a16ce26b791d" width="100%"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b0b4c561-1b02-4ae4-bcdb-e41c85c565a1" width="100%"/></td>
+  </tr>
+</table>
 </div>
 
 ---
